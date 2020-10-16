@@ -55,4 +55,12 @@ public class ContactHelper extends HelperBase {
         click(By.linkText("home"));
     }
 
+    public void editContactform() {
+        click(By.xpath("//table[@id='maintable']/tbody/tr[2]/td[8]/a/img"));
+    }
+
+    public void updateContactForm() {
+        click(By.xpath("(//input[@name='update'])[2]"));
+    }
+
 }
