@@ -31,7 +31,7 @@ public class ApplicationManager {
             wd = new InternetExplorerDriver();
         }
         wd = new FirefoxDriver();
-        wd.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
+        wd.manage().timeouts().implicitlyWait(0, TimeUnit.SECONDS);
         wd.get("http://localhost:1234/group.php?selected%5B%5D=1&delete=Delete+group%28s%29");
         groupHelper = new GroupHelper(wd);
         navigationHelper = new NavigationHelper(wd);
