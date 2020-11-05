@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.thoughtworks.xstream:xstream:1.4.13">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.thoughtworks.xstream/xstream/1.4.13/c664c7e950188beca5b59e10c12cddcfb54996a4/xstream-1.4.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.thoughtworks.xstream/xstream/1.4.13/31accf3fe8f5b2c3aeacd830a4ab0baee3e2daa6/xstream-1.4.13-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
