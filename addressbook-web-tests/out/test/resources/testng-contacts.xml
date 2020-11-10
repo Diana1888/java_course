@@ -4,8 +4,6 @@
     <test name="Contacts">
         <classes>
             <class name="ru.stqa.ptf.addressbook.tests.ContactCreationTests" />
-            <class name="ru.stqa.ptf.addressbook.tests.ContactModificationTests" />
-            <class name="ru.stqa.ptf.addressbook.tests.ContactDeletionTests" />
         </classes>
     </test>
 </suite>
